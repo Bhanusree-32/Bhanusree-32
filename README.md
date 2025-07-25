@@ -42,7 +42,7 @@
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bhanusree-32&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <a href="https://www.github.com/Bhanusree-32"><img src="https://nirzak-streak-stats.vercel.app/?user=dun-sin&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  <img src="https://streak-stats.demolab.com?user=Bhanusree-32&theme=tokyonight-duo&hide_border=true&fire=DD2727" alt="🔥 Streak Stats" />
 </p>
 
 ---
